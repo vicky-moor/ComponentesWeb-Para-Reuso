@@ -6,4 +6,6 @@ Antes de empezar a utilizar los componentes debe tomarse en cuenta que son compo
 
 Para el apartado nombrado "productos.php" es necesaria una conexión hacia una base de datos, especificada en el archivo "conexion.php"
 
-Como apoyo visual, se anexa una vista previa de los componentes compartidos. Disponible en: https://aldanaaimportaciones.000webhostapp.com/ComponentesWeb-Para-Reuso/index2.php
+Como apoyo visual, se anexa una vista previa de los componentes compartidos. Disponible en: https://aldanaaimportaciones.000webhostapp.com/ComponentesWeb-Para-Reuso/index2.php 
+
+Se incluye la carpeta "Assets" por si se desea conservar los estilos de la muestra, solo descargue dicho directorio y anexe a su proyecto.
